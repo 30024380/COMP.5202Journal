@@ -1,0 +1,37 @@
+\\Git bash commands
+cd C:\\Desktop
+git clone
+
+cd C:\\repository file
+git add .
+git commit -m "Comment"
+git push origin master
+
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.White;
+
+            Decimal one;
+            
+            Console.WriteLine("Enter Your Pin");
+            int pin = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter Your Age Here");
+            int age = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter Your First Name Here");
+            string firstname = Console.ReadLine();
+
+            Console.WriteLine("Enter First Decimal Here");
+            one = Decimal.Parse(Console.ReadLine());
+
+            //Dollar Sign Method
+            Console.Writeline($"(firstname) (lastname));
+            
+            //String Concatenation
+            Console.WriteLine("Name: " + firstname + " " + lastname);
+            
+            //Replacement Method
+            Console.Writeline("(0) (1)",firstname, lastname)
+            
+            //How to format Code 
+            Console.WriteLine("Name: " + firstname + " " + lastname);
