@@ -7,6 +7,7 @@ git add .
 git commit -m "Comment"
 git push origin master
 
+//BEDMAS // D and M can be swapped also A and S
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.White;
 
@@ -35,3 +36,15 @@ git push origin master
             
             //How to format Code 
             Console.WriteLine("Name: " + firstname + " " + lastname);
+           
+           //var can be used to replace other variables and will detect which variable best fits it
+            Var firstname; 
+            
+           //Unary Operators
+           //++
+           int i = 1;
+           Console.Writeline("i = " + i);
+           //--
+           //Binary Operators
+           //uses more then 1 variable 
+           
