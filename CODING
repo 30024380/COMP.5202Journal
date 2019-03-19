@@ -26,7 +26,7 @@ git push origin master
             one = Decimal.Parse(Console.ReadLine());
 
             //Dollar Sign Method
-            Console.Writeline($"(firstname) (lastname));
+            Console.Writeline($"{firstname} {lastname});
             
             //String Concatenation
             Console.WriteLine("Name: " + firstname + " " + lastname);
