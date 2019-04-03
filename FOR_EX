@@ -1,52 +1,27 @@
 //Name: Logan Tawhiri
-//Purpose: For, While, Do-while
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LOOPTASK01
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.ForegroundColor = ConsoleColor.White;
-
+//Purpose: For Loop
+            
+            // The amount of times the loop can cycle
             int limit = 5;
 
+            // For Display purposes, displaying the numbers correctly
             Console.WriteLine("N\t\t10*N\t\t100*N\t\t1000*N");
+            
+            // the loop conditions
             for (int counter = 1; counter <= limit; counter++)
-            {                
-                Console.Write(counter * 10 + "\t\t");               
+            {   
+                // 1++ times 10
+                Console.Write(counter * 10 + "\t\t");    
+               
+               // 1++ times 100
                 Console.Write(counter * 100 + "\t\t");
+               
+               // 1++ * 1000
                 Console.Write(counter * 1000 + "\t\t");
                 Console.ReadLine();
 
             }
-
-            Console.WriteLine(" ");
-            Console.WriteLine("Loop End");
-            Console.WriteLine(" ");
-
-            int gg = 1;
-
-            while (gg <= limit)
-            {
-                Console.Write(gg * 10 + "\t\t");
-                Console.Write(gg * 100 + "\t\t");
-                Console.Write(gg * 1000 + "\t\t");
-                gg++;
-                Console.ReadLine();
-
-            }
-
-            Console.WriteLine(" ");
-            Console.WriteLine("Loop End");
-            Console.WriteLine(" ");
-
+        
             gg = 1;
             do
             {
