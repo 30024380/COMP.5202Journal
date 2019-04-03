@@ -1,1 +1,17 @@
-
+           // Loop cycle limit
+           int limit = 5;
+           
+           // loop 
+           int gg = 1;
+          
+            do
+            {
+                // displays 1 * 10
+                Console.Write(gg * 10 + "\t\t");  
+               
+               // Makes the counter increase by 1 
+                gg++;
+                Console.ReadLine();
+            
+            // the loop condition
+            } while (gg <= limit);
