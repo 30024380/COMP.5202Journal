@@ -64,3 +64,16 @@ git push origin master
 
             Console.WriteLine("The Sum is: " + (total));
             Console.ReadLine();
+            
+            // Factorial of 10
+            int total = 1;
+            int gg = 1;
+
+            while (gg <= 10)
+            {
+                total *= gg;
+                gg++;
+            }
+
+            Console.WriteLine("The Factorial of 10 is: " + (total));
+            Console.ReadLine();
