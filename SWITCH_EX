@@ -1,20 +1,6 @@
 //Name : Logan Tawhiri
 //Purpose : Calculator
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SwitchTask03
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.ForegroundColor = ConsoleColor.White;
-
             string tryAgain = "y";
             do
             {
