@@ -1,1 +1,118 @@
+Addition and Subtraction
 
+Example 1:
+3x + 7x - 2x
+= 8x
+Because they are like terms
+
+Example 2:
+4x^2 - 3x^2 + 5x^2 
+= 6x^2
+Because they are like terms
+
+Test 1:
+2 - 4x + y + 5 + a + 7z + 3a + 4y + 10 + y
+Group terms first
+(3a + a) + (-4x) + (y + 4y + y) + (2 + 5 + 10)
+= 4a - 4x + 6y + 17 
+
+Multiplying and Removing Brackets
+
+Example 1:
+2x^2 * 4x^3
+= 8x^5
+
+Bracket Removing
+
+Example 1:
+2(3x - 3)
+= 2 * 3x + 2 * -3 
+= 6x - 6
+
+Test 2:
+-2c(7c + 9)
+= -2c * 7c + -2c * 9
+= -14c^2 + -18c
+= -14c^2 - 18c
+
+(x + 1)(x + 6)
+= x * x + x * 6 + 1 * x + 1 * 6
+= x^2 + 6x + 1x + 6
+= x^2 + 7x + 6
+
+Dividing
+
+Example 1:
+16x^7 / 4x^2 = 4x^5
+
+4a ^2 + 8a / 2a is the same as 4a^2 / 2a + 8a / 2a
+
+Example 2: 
+2p + v^2d + 2ydg
+= 2p / 2dg + v^2d / 2dg + 2ydg / 2dg 
+= p / dg + v^2 / g + y
+
+Factorising Algebraic 
+
+Example 1:
+5x + 20y
+= 5(x + 4y)
+Find the common factor beween the numbers 5 and 20
+
+Test 1:
+8x^2 - 12x 
+= 4x(2x - 3)
+
+Test 2:
+2xy + 10x - 6y
+= 2(xy + 5x - 3y)
+
+Test 3: 
+7x + 21x^2
+- 7x(1 + 3x)
+
+Factorise by grouping
+Test 1:
+6x + 9 + 2ax + 3a
+Find common factor
+= 3(2x + 3)+ a(2x + 3)
+= (2x + 3)(3 + a)
+
+Linear Equations
+Example 1:
+x + 6 = -3
+= x + 6 - 6 = -3 -6
+The reason behind the -6 is because you are trying to make x the sole factor and you must also take that away on the other side
+= x = -9
+
+Example 2:
+2x = 5
+= 2x / 2 = 5 / 2
+= z = 5/2
+
+Example 3: 
+1x / 2 = 20
+= 2 / 1(1x / 2) = 2 / 1(20 / 1)
+= 2 * 1x / 2 = x 2 * 20 / 1 = 40
+x = 40
+
+Test 1:
+x / 5 = 6
+5 / 1 (1x / 5) = 5 / 1 (6 / 1)
+= 5 * 1x / 5 = x 5 * 6 / 1 = 30
+x = 30
+
+Test 2:
+3x / 5 = 10
+5 / 3 (3x / 5) = 5 / 3 (10 / 3)
+= 5 * 3x / 5 = 3x 5 * 10 / 3 = 50
+3x = 50
+x = 50 / 3 
+
+Test 3:
+2x + 4 = -8
+Common Factor is 2
+2x / 2 + 4 / 2 = -8 / 2
+= x + 2 = -4
+= x + 2 - 2 = -4 - 2 
+= x = -6 
