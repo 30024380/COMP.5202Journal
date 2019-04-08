@@ -1,17 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+//Purpose: Tell the user whether their word is a palindrome if not display otherwise
 
-namespace Task6
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.ForegroundColor = ConsoleColor.White;
-           
             string letter1;
             string letter2;
             string letter3;
