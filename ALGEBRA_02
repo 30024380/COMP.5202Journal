@@ -1,1 +1,44 @@
+Examples of Quadratic Equations
 
+2x^2 + 5x - 12 (a = 2, b = 5, c = -12)
+4x^2 + 16 (a = 4, b = 0, c = 16)
+3x^2 + 8x (a = 3, b = 8, c = 0)
+
+Factorising Simple Quadratic Equations
+
+Example 1:
+x^2 + 5x + 6 = (x + ?)(x + ?)
+= (x + 2)(x + 3)
+Because 2 * 3 is = 6 and 2 + 3 is = 5
+Expanding
+= x * x + x * 3 + 2 * x + 2 * 3
+= x^2 + 3x + 2x + 6 
+= x^2 + 5x + 6
+
+Example 2:
+x^2 - 6x + 8 = (x - ?)(x - ?)
+= (x - 4)(x - 2)
+Because -4 * -2 is = 8 and -4 + -2 is = 6
+Expanding
+= x * x + x * -2 + -4 * x + -4 * -2
+= x^2 + -2x + -4x + 8
+= x^2 - 6x + 8
+
+Solving Quadratics
+
+Example:
+x^2 - x = 20
+x^2 - x - 20 = 0
+Because you have to make x = 0 so you bring the number to the other side of = and make it opposite of what it was positive or negative
+= (x + 4)(x - 5)
+Factorising
+x + 4 = 0   x - 5 = 0
+x = -4      x = 5
+
+Test 01:
+x^2 + 30 = 11x
+x^2 - 11x + 30 = 0
+= (x - 6)(x - 5)
+Factorising
+x - 6 = 0   x - 5 = 0
+x = 6       x = 5
